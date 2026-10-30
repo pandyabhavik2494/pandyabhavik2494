@@ -1,15 +1,16 @@
 # Hi, I'm Bhavik 👋
 
 I build small, native apps that do one thing well: no accounts, no ads, nothing leaving the device.
-Lately that means SwiftUI on iPhone and Mac, and Kotlin with Jetpack Compose on the Galaxy Z Fold.
+My recent work is in SwiftUI on iPhone and Mac, and Kotlin with Jetpack Compose on the Galaxy Z Fold.
 
-### What I'm working on
+### Recent projects
 
 | Project | What it is | Built with |
 | --- | --- | --- |
 | [**Hush**](https://github.com/pandyabhavik2494/Hush) | A quiet music player for the songs already in your library, on iPhone and Mac | Swift, SwiftUI, MediaPlayer, AVFoundation |
 | [**Pedometer**](https://github.com/pandyabhavik2494/Pedometer) | A step counter for the Z Fold that merges phone and Fitbit steps through Health Connect, with home screen widgets | Kotlin, Compose, Room, Hilt, Glance |
 | [**Sole**](https://github.com/pandyabhavik2494/Sole) | An iPhone pedometer that syncs both ways with Apple Health, with Lock Screen widgets | Swift, SwiftUI, SwiftData, HealthKit, WidgetKit |
+| [**BrainVita**](https://github.com/pandyabhavik2494/BrainVita) | The classic 33-hole peg solitaire, laid out for both screens of the Z Fold, with undo and a saved game | Kotlin, Compose, Canvas, DataStore |
 | [**UltraWide**](https://github.com/pandyabhavik2494/UltraWide) | A Safari extension that makes video fill an ultrawide window | Swift, JavaScript, Safari Web Extensions |
 
 ### Earlier work
